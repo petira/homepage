@@ -7,3 +7,5 @@ h1 { text-color: red; }
 ### Welcome to my HomePage!
 
 Pokus.
+
+Hokus.
