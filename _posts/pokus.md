@@ -1,0 +1,1 @@
+Pokus bez data.
