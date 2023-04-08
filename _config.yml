@@ -1,3 +1,6 @@
 theme: minima
 title: My Website
 description: My test website
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
