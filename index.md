@@ -5,7 +5,11 @@
 ![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=android)
 
 ### ⚙️ &nbsp;GitHub Analytics
-![github stats](https://github-readme-stats.vercel.app/api?username=petira&theme=swift&show_icons=true&count_private=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petira&layout=compact&exclude_repo=petira.github.io&theme=swift)](https://github.com/petira/github-readme-stats)
+![Petira's GitHub stats](https://github-readme-stats.vercel.app/api?username=petira&theme=swift&show_icons=true)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petira&theme=swift&langs_count=10)](https://github.com/petira/github-readme-stats)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-stamp)](https://github.com/petira/grav-plugin-stamp)
+
+![](https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8)
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-vit.petira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:vit.petira@gmail.com)
