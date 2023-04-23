@@ -1,8 +1,16 @@
 ### Welcome to my HomePage!
 
-![Manjaro](https://img.shields.io/badge/-Manjaro-141a20?style=flat&logo=manjaro)&nbsp;
+### 🛠 &nbsp;Tech Stack
 ![Windows](https://img.shields.io/badge/-Windows-141a20?style=flat&logo=windows)&nbsp;
-![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=android)
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Grav](https://img.shields.io/badge/-Grav-141a20?style=flat&logo=grav)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code)&nbsp;
+![LibreOffice](https://img.shields.io/badge/-LibreOffice-141a20?style=flat&logo=libreoffice)&nbsp;
+![GIMP](https://img.shields.io/badge/-Gimp-141a20?style=flat&logo=gimp)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=flat&logo=inkscape)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Petira's GitHub stats](https://github-readme-stats.vercel.app/api?username=petira&theme=swift&show_icons=true)
