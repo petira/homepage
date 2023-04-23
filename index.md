@@ -7,7 +7,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 ![Petira's GitHub stats](https://github-readme-stats.vercel.app/api?username=petira&theme=swift&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petira&theme=swift&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petira&theme=swift&langs_count=10&exclude_repo=grav-plugin-stamp,grav-plugin-timestamp,homepage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-stamp)](https://github.com/petira/grav-plugin-stamp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-timestamp)](https://github.com/petira/grav-plugin-timestamp)
 
