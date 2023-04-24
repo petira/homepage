@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 ### O webu
 
 Testovací web!
