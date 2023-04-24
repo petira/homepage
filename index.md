@@ -17,7 +17,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petira&theme=swift&langs_count=10&exclude_repo=grav-plugin-stamp,grav-plugin-timestamp,homepage)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-stamp)](https://github.com/petira/grav-plugin-stamp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-timestamp)](https://github.com/petira/grav-plugin-timestamp)
+![GitHub repo size](https://img.shields.io/github/repo-size/petira/grav-plugin-stamp?color=red&label=Stamp%20Plugin&logo=xxx&logoColor=blue&style=social)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-stamp)](https://github.com/petira/grav-plugin-stamp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petira&repo=grav-plugin-timestamp)](https://github.com/petira/grav-plugin-timestamp)
 
 ![](https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8)
 
