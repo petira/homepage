@@ -16,3 +16,4 @@ minima:
 header_pages:
   - about/index.md
   - index.md
+show_excerpts: true
