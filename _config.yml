@@ -1,10 +1,9 @@
 theme: minima
 title: My Website
 description: My test website
-site:
-  author:
-    name: Vít Petira
-    email: aaa@aaaaaaaaaa.com
+author:
+  name: Vít Petira
+  email: aaa@aaaaaaaaaa.com
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
