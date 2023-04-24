@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ### Welcome to my HomePage!
 
 ### 🛠 &nbsp;Tech Stack
