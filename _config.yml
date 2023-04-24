@@ -10,3 +10,7 @@ plugins:
   - jekyll-paginate
 paginate: 2
 paginate_path: "/homepage/page:num/"
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/petira" }
+    - { platform: twitter, user_url: "https://twitter.com/vitpetira" }
