@@ -15,5 +15,5 @@ minima:
     - { platform: github,  user_url: "https://github.com/petira" }
     - { platform: twitter, user_url: "https://twitter.com/vitpetira" }
 header_pages:
-  - about
+  - /about
   - index.md
