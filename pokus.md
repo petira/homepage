@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <html>
 <head>
 </head>
