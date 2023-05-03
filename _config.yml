@@ -14,7 +14,6 @@ minima:
     - { platform: github,  user_url: "https://github.com/petira" }
     - { platform: twitter, user_url: "https://twitter.com/vitpetira" }
 header_pages:
-  - pokus.md
+  - vypis/pokus.md
   - about/index.md
-  - index.md
 show_excerpts: true
