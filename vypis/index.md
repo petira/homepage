@@ -2,8 +2,8 @@
 layout: page
 ---
 
-aaaaaa
+Naposledy upravené články na webu Grav.cz:
 
 <script type="text/javascript" src="https://www.grav.cz/last"></script>
 
-bbbbbb
+Další články naleznete v Blogu.
