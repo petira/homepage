@@ -4,6 +4,6 @@ layout: page
 
 aaaaaa
 
-<script type="text/javascript" src="http://www.tu.cz/data.php"></script>
+<script type="text/javascript" src="https://www.petira.org/data.php"></script>
 
 bbbbbb
