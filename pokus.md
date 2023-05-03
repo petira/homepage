@@ -4,6 +4,6 @@ layout: page
 
 aaaaaa
 
-<script type="text/javascript" src="https://www.petira.org/data.php"></script>
+<script type="text/javascript" src="https://www.grav.cz/last"></script>
 
 bbbbbb
