@@ -7,6 +7,6 @@ title: Výpis článků
 
 Naposledy upravené články na webu Grav.cz:
 
-<script type="text/javascript" src="https://www.grav.cz/last"></script>
+<script src="https://www.grav.cz/modules/last" type="text/javascript"></script>
 
 Další články naleznete v Blogu.
