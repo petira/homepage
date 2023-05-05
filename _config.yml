@@ -6,6 +6,9 @@ author:
   email: aaa@aaaaaaaaaa.com
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
+paginate: 2
+paginate_path: "/pagestest/page:num/"
 minima:
   skin: dark
   social_links:
