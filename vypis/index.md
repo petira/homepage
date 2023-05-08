@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Výpis článků
+title: List of articles | Výpis článků
 ---
 
-### Výpis 10 naposledy upravených článků
+### List of 10 last modified articles | Výpis 10 naposledy upravených článků
 
-Naposledy upravené články na webu [Grav.cz](https://www.grav.cz/):
+<script type="text/javascript" src="https://www.grav.cz/modules/modified-items"></script>
 
-<script src="https://www.grav.cz/modules/modified-items" type="text/javascript"></script>
+### List of 10 newly added articles | Výpis 10 nově přidaných článků
 
-### Výpis 10 nových článků
+<script type="text/javascript" src="https://www.grav.cz/modules/added-items"></script>
 
-Nové články na webu [Grav.cz](https://www.grav.cz/):
+### More articles | Další články
 
-<script src="https://www.grav.cz/modules/new-items" type="text/javascript"></script>
+More articles are available in the [Blog](https://www.grav.cz/blog) or on the page of the author [Vít Petira](https://www.grav.cz/autor/petira).
 
-Další články naleznete v [Blogu](https://www.grav.cz/blog).
+Další články jsou k dispozici v [Blogu](https://www.grav.cz/blog) nebo na stránce autora [Víta Petiry](https://www.grav.cz/autor/petira).
