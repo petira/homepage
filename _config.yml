@@ -7,7 +7,7 @@ author:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-paginate: 2
+paginate: 1
 paginate_path: "/pagestest/page:num/"
 minima:
   skin: dark
@@ -17,6 +17,7 @@ minima:
 header_pages:
   - vypis/index.md
   - about/index.md
+  - README.md
   - test.html
   - home.html
 show_excerpts: true
