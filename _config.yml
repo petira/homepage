@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 paginate: 1
-paginate_path: "/pagestest/page:num/"
+paginate_path: "/blog/page:num/"
 minima:
   skin: dark
   social_links:
