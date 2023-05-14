@@ -17,4 +17,6 @@ minima:
 header_pages:
   - vypis/index.md
   - about/index.md
+  - test.html
+  - home.html
 show_excerpts: true
